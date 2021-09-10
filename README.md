@@ -18,5 +18,5 @@ Courses:
 
 # Contact me
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png](linkedin.com/lavahoppers)
+![linkedin.com/lavahoppers](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png)
 
