@@ -9,8 +9,6 @@ About me:
 - I am studying for a bachelor's of science with majors: computer science and data science
 - I am an avid coder and I love to take on projects to laern more about subjects I am interested in
 
-What I'm studying:
-
 __University of Wisconsin-Madison__
 
 Courses:
@@ -18,4 +16,7 @@ Courses:
 - CS320 DATA SCIENCE PROGRAMMING II
 - STATS240 INTRODUCTION TO DATA MODELING I
 
+# Contact me
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png](linkedin.com/lavahoppers)
 
